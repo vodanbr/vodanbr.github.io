@@ -2,7 +2,7 @@
 title: VODAN International
 feature_text: 
 feature_image: '/assets/logos/background.jpg'
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "About Us"
 ---
 
  The **VODAN Implementation Network** is one of the joint activities carried out by [CODATA](https://codata.org/), [RDA](https://www.rd-alliance.org/), [WDS](https://www.worlddatasystem.org/), and [GO FAIR](https://www.go-fair.org/).
