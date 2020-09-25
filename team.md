@@ -7,6 +7,11 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: false
 ---
 
+{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
+##### Test Name
+Short Introduction...
+{% include button.html text="Lattes" link="http://lattes.cnpq.br/" %}
+
 # Heading 1
 
 ## Heading 2

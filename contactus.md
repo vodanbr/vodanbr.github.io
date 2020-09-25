@@ -8,7 +8,3 @@ aside: false
 ---
 
 {% include site-form.html %}
-
-``` html
-{% raw %}{% include site-form.html %}{% endraw %}
-```
