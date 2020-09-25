@@ -10,20 +10,7 @@ excerpt: "Our Team"
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {% include button.html text="Lattes" link="http://lattes.cnpq.br/" %}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{:style="clear: left"}
 
 ## Position
 {% include figure.html image="https://picsum.photos/600/800?image=894" caption=" " position="left" width="300" height="800" %}
