@@ -123,8 +123,8 @@ navigation_header:
   url: /
 - title: Our Team
   url: /team/
-- title: Eventss
-  url: /events/
+- title: Events
+  url: /team/  
 - title: Blog
   url: /blog/
 - title: Search
