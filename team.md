@@ -7,15 +7,16 @@ excerpt: ""
 ---
 
 ## Position
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption=" " position="left" width="300" height="800" %}
+{% include figure.html image="https://picsum.photos/600/800?image=894" position="left" width="300" height="800" %}
 ##### Viviane Veiga
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {% include button.html text="Lattes" link="http://lattes.cnpq.br/" %}
 {:style="clear: left"}
 
-{% include figure.html image="/assets/team/mlmc.jpg" caption="Maria Luiza Machado Campos" position="left" width="220" height="225" %}
-**Maria Luiza Machado Campos** 
+{% include figure.html image="/assets/team/mlmc.jpg" position="left" width="220" height="225" %}
+**Maria Luiza Machado Campos**
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 {% include button.html text="Lattes" link="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781460T3" %}
 {:style="clear: left"}
