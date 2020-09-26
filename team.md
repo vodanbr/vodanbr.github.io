@@ -7,62 +7,22 @@ excerpt: ""
 ---
 
 **Maria Luiza Machado Campos**
-{% include figure.html image="/assets/team/mlmc.jpg" position="left" width="220" height="225" %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{% include figure.html image="/assets/team/mlmc.jpg" position="left" width="150" %}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 {% include button.html text="Lattes" link="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781460T3" %}
 {:style="clear: left"}
 
 **Sergio Manuel Serra da Cruz**
-{% include figure.html image="/assets/team/serra.jpg" position="left" width="220" height="225" %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{% include figure.html image="/assets/team/serra.jpg" position="left" width="150" %}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 {% include button.html text="Lattes" link="http://lattes.cnpq.br/7618571401128973" %}
 {:style="clear: left"}
 
 **Giseli Rabello Lopes**
-{% include figure.html image="/assets/team/giseli.jpg" position="left" width="220" height="225" %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{% include figure.html image="/assets/team/giseli.jpg" position="left" width="150" %}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 {% include button.html text="Lattes" link="http://lattes.cnpq.br/9439416101626260" %}
 {:style="clear: left"}
-
-
-
-
-<p float="left">
-  <img src="/assets/team/mlmc.jpg" width="150" />
-  <img src="/assets/team/serra.jpg" width="150" /> 
-  <img src="/assets/team/giseli.jpg" width="150" />
-</p>
-
-<table>
-    <colgroup>
-      <col width="30%" />
-      <col width="70%" />
-    </colgroup>
-  <thead>
-    <tr class="header">
-      <th><img src="/assets/team/mlmc.jpg" width="150" /></th>
-      <th><img src="/assets/team/serra.jpg" width="150" /></th>
-      <th><img src="/assets/team/giseli.jpg" width="150" /></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td markdown="span">**Maria Luiza Machado Campos**</td>
-      <td markdown="span"></td>
-    </tr>
-    <tr>
-      <td markdown="span">**Sergio Manuel Serra da Cruz**</td>
-      <td markdown="span"></td>
-    </tr>
-    <tr>
-      <td markdown="span">**Giseli Rabello Lopes**</td>
-      <td markdown="span"></td>
-    </tr>
-  </tbody>
-</table>
-
-
-
