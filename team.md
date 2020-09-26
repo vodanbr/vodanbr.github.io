@@ -49,13 +49,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   </thead>
   <tbody>
     <tr>
-      <td markdown="span">First column **fields**</td>
-      <td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+      <td markdown="span"><img src="/assets/team/mlmc.jpg" width="150" /></td>
+      <td markdown="span">**Maria Luiza Machado Campos**</td>
+      <td markdown="span"></td>
     </tr>
     <tr>
-      <td markdown="span">Second column **fields**</td>
-      <td markdown="span">Some more descriptive text.
-      </td>
+      <td markdown="span"><img src="/assets/team/serra.jpg" width="150" /></td>
+      <td markdown="span">**Sergio Manuel Serra da Cruz**</td>
+      <td markdown="span"></td>
+    </tr>
+    <tr>
+      <td markdown="span"><img src="/assets/team/giseli.jpg" width="150" /></td>
+      <td markdown="span">**Giseli Rabello Lopes**</td>
+      <td markdown="span"></td>
     </tr>
   </tbody>
 </table>
