@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {:style="clear: left"}
 
 ## Position
-{% include figure.html image="/assets/team/mlmc.jpg" caption=" " position="left"  %}
+{% include figure.html image="/assets/team/mlmc.jpg" caption=" " position="left" width="491" height="502" %}
 ##### Maria Luiza Machado Campos
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -30,6 +30,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% include button.html text="Lattes" link="http://lattes.cnpq.br/" %}
 {:style="clear: left"}
-
-
-width="491" height="502"
