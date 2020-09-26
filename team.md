@@ -16,11 +16,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {:style="clear: left"}
 
 ## Position
-{% include figure.html image="/assets/team/mlmc.jpg" caption=" " position="left" %}
+{% include figure.html image="/assets/team/mlmc.jpg" caption=" " position="left" width="245" height="251" %}
 ##### Maria Luiza Machado Campos
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-{% include button.html text="Lattes" link="http://lattes.cnpq.br/" %}
+{% include button.html text="Lattes" link="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781460T3" %}
 {:style="clear: left"}
 
 ## Position
