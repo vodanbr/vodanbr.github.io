@@ -6,7 +6,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
 
-{% include button.html text="Executive" link="https://vodanbr.github.io/team/" %}{% include button.html text="Coordination" icon="lattes" link="https://vodanbr.github.io/team/" %}{% include button.html text="Team" icon="lattes" link="https://vodanbr.github.io/team/" %}
+{% include button.html text="Executive" align="center" link="https://vodanbr.github.io/team/" %}{% include button.html text="Coordination" align="center" link="https://vodanbr.github.io/team/" %}{% include button.html text="Team" align="center" link="https://vodanbr.github.io/team/" %}
 
 {% include figure.html image="/assets/team/mlmc.jpg" position="left" width="150" %}
 **Maria Luiza Machado Campos**\
