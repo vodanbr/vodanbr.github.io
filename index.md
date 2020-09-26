@@ -16,13 +16,11 @@ excerpt: "About Us"
 
 ## VODAN Brazil
 
-The **VODAN Brazil Implementation Network** was created through the efforts of teams from the Oswaldo Cruz Foundation ([Fiocruz](https://portal.fiocruz.br/)), Federal University of Rio de Janeiro ([UFRJ](https://ufrj.br/)), [Gafrée Guinle University Hospital](http://www.unirio.br/hugg_geral) and São José Municipal Hospital.
+The **VODAN Brazil Implementation Network** was established through the efforts of teams from the Oswaldo Cruz Foundation ([Fiocruz](https://portal.fiocruz.br/)), Federal University of Rio de Janeiro ([UFRJ](https://ufrj.br/)), [Gafrée Guinle University Hospital](http://www.unirio.br/hugg_geral) and São José Municipal Hospital. The Vodan Brazil aims to provide an infrastructure capable of enabling health units to collect and manage medical data of patients infected with COVID-19.
 
-The Vodan Brazil aims to provide an infrastructure capable of enabling health units to collect and implement the management of patients medical data infected with COVID-19. First, a collection of patient data from each hospital is collect using the [
-COVID-19 CASE RECORD FORM](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwihpanpkYbsAhXCILkGHQ7MC4IQFjAAegQIBhAB&url=https%3A%2F%2Fapps.who.int%2Firis%2Frest%2Fbitstreams%2F1274888%2Fretrieve&usg=AOvVaw1Abvhm1sC0BhZ17V3nyaF0), adopted by the World Health Organization (WHO).
-
-Subsequently, a network of FAIR Data Points will be created in repositories with the data of these patients, ensuring the confidentiality and privacy of each patient based on government laws. From the FDPs, it will be possible to interoperate with each other and with other national and international data sources, allowing for wide reuse and exploration of this data in different researches.
+During the first phase of the project, a collection of patient data from each hospital is collect using the [
+COVID-19 CASE RECORD FORM](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwihpanpkYbsAhXCILkGHQ7MC4IQFjAAegQIBhAB&url=https%3A%2F%2Fapps.who.int%2Firis%2Frest%2Fbitstreams%2F1274888%2Fretrieve&usg=AOvVaw1Abvhm1sC0BhZ17V3nyaF0), adopted by the World Health Organization (WHO). Subsequently, a network of FAIR Data Points ([FDPs](https://www.go-fair.org/how-to-go-fair/fair-data-point/)) will be created in repositories with the data of these patients, ensuring the confidentiality and privacy of each patient based on government laws. From the FDPs, it will be possible to interoperate with each other and with other national and international data sources, allowing for wide reuse and exploration of this data in different researches.
 
 
-{% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://oms-vodan.github.io&text=Look%20how%20interesting%20this%20project%20is!" color="#0d94e7" %} {% include button.html text="Share on Facebook" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fvodanbr.github.io" color="#0d94e7" %}
+{% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://oms-vodan.github.io&text=Look%20how%20interesting%20this%20project%20is!" color="#0d94e7" %} {% include button.html text="Share on Facebook" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fvodanbr.github.io" color="#3B5998" %}
 
