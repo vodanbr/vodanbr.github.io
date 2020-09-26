@@ -15,6 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {:style="clear: left"}
 
 ##### Maria Luiza Machado Campos
+
 {% include figure.html image="/assets/team/mlmc.jpg" caption=" " position="left" width="220" height="225" %}
 ###### Position
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
