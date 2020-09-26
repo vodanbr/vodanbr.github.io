@@ -22,7 +22,7 @@ Position
 {% include button.html text="Lattes" link="http://lattes.cnpq.br/7618571401128973" %}
 {:style="clear: left"}
 
-{% include button.html text="CV" icon="instagram" link="http://lattes.cnpq.br/7618571401128973" color="#0d94e7" %}
+{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/7618571401128973" color="#0d94e7" %}
 
 
 {% include figure.html image="/assets/team/giseli.jpg" position="left" width="150" %}
