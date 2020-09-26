@@ -43,23 +43,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     </colgroup>
   <thead>
     <tr class="header">
-      <th>Field</th>
-      <th>Description</th>
+      <th><img src="/assets/team/mlmc.jpg" width="150" /></th>
+      <th><img src="/assets/team/serra.jpg" width="150" /></th>
+      <th><img src="/assets/team/giseli.jpg" width="150" /></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td markdown="span"><img src="/assets/team/mlmc.jpg" width="150" /></td>
       <td markdown="span">**Maria Luiza Machado Campos**</td>
       <td markdown="span"></td>
     </tr>
     <tr>
-      <td markdown="span"><img src="/assets/team/serra.jpg" width="150" /></td>
       <td markdown="span">**Sergio Manuel Serra da Cruz**</td>
       <td markdown="span"></td>
     </tr>
     <tr>
-      <td markdown="span"><img src="/assets/team/giseli.jpg" width="150" /></td>
       <td markdown="span">**Giseli Rabello Lopes**</td>
       <td markdown="span"></td>
     </tr>
