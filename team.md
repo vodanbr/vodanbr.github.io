@@ -8,7 +8,7 @@ excerpt: ""
 
 
 {% include figure.html image="/assets/team/mlmc.jpg" position="left" width="150" %}
-**Maria Luiza Machado Campos** \ Position
+**Maria Luiza Machado Campos**\Position
 {% include button.html text="CV" icon="lattes" link="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781460T3" %}
 {:style="clear: left"}
 
