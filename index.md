@@ -16,30 +16,13 @@ excerpt: "About Us"
 
 ## VODAN Brazil
 
-The **VODAN Brazil Implementation Network** aims to implement data management, sharing, and reuse of COVID-19 infected patients admitted to hospitals in conjunction with the VODAN International networks.
+The **VODAN Brazil Implementation Network** was created through the efforts of teams from the Oswaldo Cruz Foundation ([Fiocruz](https://portal.fiocruz.br/)), Federal University of Rio de Janeiro ([UFRJ](https://ufrj.br/)), [Gafrée Guinle University Hospital](http://www.unirio.br/hugg_geral) and São José Municipal Hospital.
+
+The Vodan Brazil aims to provide an infrastructure capable of enabling health units to collect and implement the management of patients medical data infected with COVID-19. First, a collection of patient data from each hospital is collect using the [
+COVID-19 CASE RECORD FORM](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwihpanpkYbsAhXCILkGHQ7MC4IQFjAAegQIBhAB&url=https%3A%2F%2Fapps.who.int%2Firis%2Frest%2Fbitstreams%2F1274888%2Fretrieve&usg=AOvVaw1Abvhm1sC0BhZ17V3nyaF0), adopted by the World Health Organization (WHO).
+
+Subsequently, a network of FAIR Data Points will be created in repositories with the data of these patients, ensuring the confidentiality and privacy of each patient based on government laws. From the FDPs, it will be possible to interoperate with each other and with other national and international data sources, allowing for wide reuse and exploration of this data in different researches.
 
 
-
-
- The first project within the VODAN network aims to provide this infrastructure to enable healthcare units to collect and implement the management of patient data that carry SARS-CoV2, the new Coronavirus, ensuring the confidentiality and privacy of patient data. Project in partnership with FIOCRUZ and small, state and federal hospitals.
-
-
-A Fundação Oswaldo Cruz (Fiocruz) que exerce um papel
-de destaque na liderança ao combate ao novo Coronavírus no Brasil e coordena a rede
-GO FAIR Brasil Saúde, tendo iniciado assumidou a VODAN Brasil em parceria com a
-Universidade Federal do Rio de Janeiro, o Hospital Universitário Gafrée Guinle
-(UNIRIO) e o Hospital Israelita Albert Einstein. Primeiramente será feita a coleta dos
-dados dos pacientes desse hospital utilizando o Formulário de Pesquisa Clínica
-Uniforme, adotado pela Organização Mundial de Saúde (OMS). Posteriormente será
-criada uma rede de FAIR Data Points em repositórios com dados desses pacientes,
-para que possam interoperar entre eles e com outras fontes de dados nacionais e
-internacionais, permitindo amplo reuso e exploração desses dados em diferentes
-pesquisas. A Europa atualmente possui mais de 70 estudos clínicos em plataforma
-apropriada que utilizam o formulário da OMS. A participação brasileira por meio desta
-cooperação, com a rede VODAN, estará dando a nossa contribuição nos estudos
-nacionais e internacionais ao combate à COVID19 (Coronavirus Disease 2019).
-
-
-{% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://oms-vodan.github.io&text=Look%20how%20interesting%20this%20project%20is!" color="#0d94e7" %}
-{% include button.html text="Share on Facebook" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fvodanbr.github.io" color="#0d94e7" %}
+{% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://oms-vodan.github.io&text=Look%20how%20interesting%20this%20project%20is!" color="#0d94e7" %} {% include button.html text="Share on Facebook" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fvodanbr.github.io" color="#0d94e7" %}
 
