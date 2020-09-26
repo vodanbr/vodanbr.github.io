@@ -13,16 +13,28 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% include button.html text="Lattes" link="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781460T3" %}
 {:style="clear: left"}
 
-**Maria Luiza Machado Campos**
-{% include figure.html image="/assets/team/mlmc.jpg" position="left" width="220" height="225" %}
+**Sergio Manuel Serra da Cruz**
+{% include figure.html image="/assets/team/serra.jpg" position="left" width="220" height="225" %}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+{% include button.html text="Lattes" link="http://lattes.cnpq.br/7618571401128973" %}
+{:style="clear: left"}
+
+**Giseli Rabello Lopes**
+{% include figure.html image="/assets/team/giseli.jpg" position="left" width="220" height="225" %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {% include button.html text="Lattes" link="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781460T3" %}
 {:style="clear: left"}
 
-**Maria Luiza Machado Campos**
-{% include figure.html image="/assets/team/mlmc.jpg" position="left" width="220" height="225" %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-{% include button.html text="Lattes" link="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781460T3" %}
-{:style="clear: left"}
+
+
+<p float="left">
+  <img src="/assets/team/mlmc.jpg" width="100" />
+  <img src="/assets/team/serra.jpg" width="100" /> 
+  <img src="/assets/team/giseli.jpg" width="100" />
+</p>
+
+
+
