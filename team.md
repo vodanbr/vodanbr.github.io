@@ -24,16 +24,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% include figure.html image="/assets/team/giseli.jpg" position="left" width="220" height="225" %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-{% include button.html text="Lattes" link="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781460T3" %}
+{% include button.html text="Lattes" link="http://lattes.cnpq.br/9439416101626260" %}
 {:style="clear: left"}
 
 
 
 
 <p float="left">
-  <img src="/assets/team/mlmc.jpg" width="100" />
-  <img src="/assets/team/serra.jpg" width="100" /> 
-  <img src="/assets/team/giseli.jpg" width="100" />
+  <img src="/assets/team/mlmc.jpg" width="220" />
+  <img src="/assets/team/serra.jpg" width="220" /> 
+  <img src="/assets/team/giseli.jpg" width="220" />
 </p>
 
 
