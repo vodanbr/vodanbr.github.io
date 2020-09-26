@@ -41,6 +41,5 @@ nacionais e internacionais ao combate à COVID19 (Coronavirus Disease 2019).
 
 
 {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://oms-vodan.github.io&text=Look%20how%20interesting%20this%20project%20is!" color="#0d94e7" %}
-
-{% include button.html text="Share on Facebook" icon="facebook" link="https://twitter.com/intent/tweet/?url=https://oms-vodan.github.io&text=Look%20how%20interesting%20this%20project%20is!" color="#0d94e7" %}
+{% include button.html text="Share on Facebook" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fvodanbr.github.io" color="#0d94e7" %}
 
