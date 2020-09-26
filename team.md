@@ -7,16 +7,17 @@ excerpt: ""
 ---
 
 ## Position
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption=" " position="left" width="300" height="800" %}
+{% include figure.html image="https://picsum.photos/600/800?image=894" caption=" " position="left" width="300" height="800" %}{:style="clear: left"}
 ##### Viviane Veiga
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {% include button.html text="Lattes" link="http://lattes.cnpq.br/" %}
 {:style="clear: left"}
 
+## Position
 {% include figure.html image="/assets/team/mlmc.jpg" caption=" " position="left" width="220" height="225" %}{:style="clear: left"}
 ###### Maria Luiza Machado Campos
-LoremLoremLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {% include button.html text="Lattes" link="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781460T3" %}
 {:style="clear: left"}
