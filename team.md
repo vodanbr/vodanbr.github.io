@@ -11,17 +11,13 @@ excerpt: ""
 **Maria Luiza Machado Campos**\
 Position\
 {% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/0659658820912418" %}
-{:style="clear: left"}
-
 
 {% include figure.html image="/assets/team/serra.jpg" position="left" width="150" %}
 **Sergio Manuel Serra da Cruz**\
 Position\
-{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/7618571401128973"%}{:style="clear: left"}
-
+{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/7618571401128973"%}\
 
 {% include figure.html image="/assets/team/giseli.jpg" position="left" width="150" %}
 **Giseli Rabello Lopes**\
 Position\
 {% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/9439416101626260" %}
-{:style="clear: left"}
