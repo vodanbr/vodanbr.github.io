@@ -9,21 +9,19 @@ excerpt: ""
 
 {% include figure.html image="/assets/team/mlmc.jpg" position="left" width="150" %}
 **Maria Luiza Machado Campos**\
-Position
+Position\
 {% include button.html text="CV" icon="lattes" link="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4781460T3" %}
 {:style="clear: left"}
 
 
 {% include figure.html image="/assets/team/serra.jpg" position="left" width="150" %}
 **Sergio Manuel Serra da Cruz**\
-Position
-
+Position\
 {% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/7618571401128973"%}{:style="clear: left"}
 
 
 {% include figure.html image="/assets/team/giseli.jpg" position="left" width="150" %}
 **Giseli Rabello Lopes**\
-Position
-
+Position\
 {% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/9439416101626260" %}
 {:style="clear: left"}
