@@ -120,17 +120,17 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Hometeste
-  url: /pt-br/index/
+  url: /_pt-br/index/
 - title: Our Team
-  url: /pt-br/team/
+  url: /_pt-br/team/
 - title: Events
-  url: /pt-br/events/  
+  url: /_pt-br/events/  
 - title: Blog
-  url: /pt-br/blog/
+  url: /_pt-br/blog/
 - title: Search
-  url: /pt-br/search/
+  url: /_pt-br/search/
 - title: Contact Us
-  url: /pt-br/contactus/
+  url: /_pt-br/contactus/
 #- title: Fork Alembic
 #  url: https://github.com/daviddarnes/alembic
 
