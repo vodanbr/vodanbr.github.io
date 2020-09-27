@@ -131,14 +131,14 @@ navigation_header:
   url: /search/
 - title: Contact Us
   url: /contactus/
-- title: Português
-  url: /contactus/
 #- title: Fork Alembic
 #  url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
 - title: Adopted Alembic Theme
   url: https://darn.es
+- title: Português
+  url: /pt/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
