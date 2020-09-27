@@ -120,7 +120,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Hometeste
-  url: /pt-br/
+  url: /pt-br/index/
 - title: Our Team
   url: /pt-br/team/
 - title: Events
