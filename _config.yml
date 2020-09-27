@@ -127,8 +127,8 @@ navigation_header:
   url: /events/  
 - title: Blog
   url: /blog/
-- title: Search
-  url: /search/
+- title: Categories
+  url: /categories/
 - title: Contact Us
   url: /contactus/
 #- title: Fork Alembic
