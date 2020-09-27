@@ -12,7 +12,7 @@ excerpt: ""
 **Maria Luiza Machado Campos**\
 Position\
 {% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/0659658820912418" %}
-\
+
 {% include figure.html image="/assets/team/serra.jpg" position="left" width="150" %}
 **Sergio Manuel Serra da Cruz**\
 Position\
