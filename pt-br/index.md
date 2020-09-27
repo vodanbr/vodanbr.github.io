@@ -5,6 +5,8 @@ feature_image: '/assets/logos/background.jpg'
 excerpt: "About Us"
 ---
 
+**Testesssssssssssssssssssss**
+
  The **VODAN Implementation Network** is one of the joint activities carried out by [CODATA](https://codata.org/), [RDA](https://www.rd-alliance.org/), [WDS](https://www.worlddatasystem.org/), and [GO FAIR](https://www.go-fair.org/).
  
  The VODAN network was created under the urgent need to establish a federated data infrastructure, to support the capture and use of data for machine learning and artificial intelligence approaches and, discover significant patterns in epidemic outbreaks, both for the current situation and for future epidemics.

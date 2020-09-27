@@ -120,25 +120,25 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /
+  url: /pt-br/
 - title: Our Team
-  url: /team/
+  url: /pt-br/team/
 - title: Events
-  url: /events/  
+  url: /pt-br/events/  
 - title: Blog
-  url: /blog/
+  url: /pt-br/blog/
 - title: Search
-  url: /search/
+  url: /pt-br/search/
 - title: Contact Us
-  url: /contactus/
+  url: /pt-br/contactus/
 #- title: Fork Alembic
 #  url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
 - title: Adopted Alembic Theme
   url: https://darn.es
-- title: Português
-  url: /pt
+- title: English
+  url: /
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
