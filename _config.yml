@@ -66,9 +66,8 @@ collections:
     title: Posts # Needed for Siteleaf
     output: true
     description: # The post list page content
-    feature_text: |
-      Welcome to the blog
-    feature_image: "/assests/post_images/blog.jpg"
+    feature_text:
+    feature_image: '/assets/logos/background.jpg'
 
 # 6. Jekyll collections settings
 defaults:
