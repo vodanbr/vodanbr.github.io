@@ -33,7 +33,7 @@ Position\
 Position\
 {% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/4358330948060920" %}
 
-{% include figure.html image="/assets/team/marcusv.jpg" position="left" width="150" %}
+{% include figure.html image="/assets/team/mfernandes.jpg" position="left" width="150" %}
 **Matheus Fernandes Cabral**\
 Position\
 {% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/4338865827956125" %}
