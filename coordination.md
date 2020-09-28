@@ -1,7 +1,6 @@
 ---
 title: |  
 feature_text: |
-  ## Our Team
 feature_image: /assets/post_images/team.jpg
 excerpt: ""
 ---
