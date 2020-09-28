@@ -18,7 +18,7 @@ Position\
 Position\
 {% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/3719962363173635"%}
 
-{% include figure.html image="/assets/team/mfernandes.jpg" position="left" width="150" %}
+{% include figure.html image="/assets/team/madalena.jpg" position="left" width="150" %}
 **Madalena Lopes e Silva**\
 Position\
 {% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/6372404549606741" %}

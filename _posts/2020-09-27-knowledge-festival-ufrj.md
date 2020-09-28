@@ -1,8 +1,6 @@
 ---
 title: Vodan Brazil members participate in the 2020 UFRJ Knowledge Festival
 categories:
-- General
-- Videos
 - Presentations
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
