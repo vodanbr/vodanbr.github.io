@@ -48,6 +48,11 @@ Position\
 Position\
 {% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/4358330948060920" %}
 
+{% include figure.html image="/assets/team/mfernandes.jpg" position="left" width="150" %}
+**Matheus Fernandes Cabral**\
+Position\
+{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/4338865827956125" %}
+
 {% include figure.html image="/assets/team/breno.jpg" position="left" width="150" %}
 **Breno Alves de Oliveira**\
 Position\
@@ -83,12 +88,12 @@ Position\
 Position\
 {% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/1516873775273602" %}
 
-Alice Maria Barreto Vieira
-Maria Célia Tavares
-Diogo Rocco Crivaro Nunes
-João Pedro Gandarela de Souza
-Tainá da Silva Lima
-Marcos Paulo Moraes
+Alice Maria Barreto Vieira\
+Maria Célia Tavares\
+Diogo Rocco Crivaro Nunes\
+João Pedro Gandarela de Souza\
+Tainá da Silva Lima\
+Marcos Paulo Moraes\
 Ana Cláudia Ribeiro dos Santos
 
 
