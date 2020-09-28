@@ -53,11 +53,6 @@ Position\
 Position\
 {% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/4338865827956125" %}
 
-{% include figure.html image="/assets/team/marcelo.jpg" position="left" width="150" %}
-**Marcelo Campanelli Nobrega**\
-Position\
-{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/6638185008699704" %}
-
 {% include figure.html image="/assets/team/breno.jpg" position="left" width="150" %}
 **Breno Alves de Oliveira**\
 Position\
