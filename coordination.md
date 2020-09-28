@@ -18,7 +18,7 @@ Position\
 Position\
 {% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/2165808131875029"%}
 
-{% include figure.html image="/assets/team/giseli.jpg" position="left" width="150" %}
-**Giseli Rabello Lopes**\
+{% include figure.html image="/assets/team/yoko.jpg" position="left" width="150" %}
+**Maria Claudia Reis Cavalcanti**\
 Position\
-{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/9439416101626260" %}
+{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/7292694995543789" %}

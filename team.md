@@ -8,6 +8,12 @@ excerpt: ""
 
 {% include button.html text="Executive" align="center" link="https://vodanbr.github.io/team/" %}{% include button.html text="Coordination" align="center" link="https://vodanbr.github.io/coordination/" %}{% include button.html text="Collaborators" align="center" link="https://vodanbr.github.io/collaborators/" %}
 
+
+{% include figure.html image="/assets/team/bonino.jpg" position="left" width="130" %}
+**Luiz Olavo Bonino da Silva Santos**\
+Position\
+{% include button.html text="CV" icon="lattes" link="https://orcid.org/0000-0002-1164-1351" %}
+
 {% include figure.html image="/assets/team/viviane.jpg" position="left" width="130" %}
 **Viviane Santos de Oliveira Veiga**\
 Position\
