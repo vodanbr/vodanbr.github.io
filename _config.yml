@@ -75,7 +75,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/logo/vodan_brasil.png" # Default image for sharing
+      image: "/assets/logo/vodan_brasilw.png" # Default image for sharing
   -
     scope:
       path: ""
