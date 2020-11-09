@@ -35,13 +35,3 @@ VODAN IN consultant
 
 
 
-
-{% include figure.html image="/assets/team/serra.jpg" position="left" width="120" %}
-**Sergio Manuel Serra da Cruz**\
-
-{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/7618571401128973"%}
-
-{% include figure.html image="/assets/team/giseli.jpg" position="left" width="120" %}
-
-**Giseli Rabello Lopes**\
-{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/9439416101626260" %}
