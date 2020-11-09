@@ -31,4 +31,4 @@ excerpt: ""
 <br/>
 {% include figure.html image="/assets/team/bonino.jpg" position="left" width="120" %}
 <small>Luiz Olavo Bonino da Silva Santos</small>[{% include icon.html id="lattes" %}](https://orcid.org/0000-0002-1164-1351)<br/>
-<small>VODAN IN consultant</small><br/>
+<small>VODAN IN consultant</small>

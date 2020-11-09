@@ -9,21 +9,20 @@ excerpt: ""
 
 
 {% include figure.html image="/assets/team/yoko.jpg" position="left" width="120" %}
-**Luana Sales**\
-GO FAIR Brazilian Office (IBICT)
-{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/7292694995543789" %}
-&nbsp;
+<small>Luana Sales</small>[{% include icon.html id="lattes" %}](http://lattes.cnpq.br/7292694995543789)
+<small>GO FAIR Brazilian Office (IBICT)</small></br>
+</br>
+</br>
 {% include figure.html image="/assets/team/yoko.jpg" position="left" width="120" %}
-**Maria Cláudia Calvalcante**\
-Instituto Militar de Engenharia (IME/RJ)
-{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/7292694995543789" %}
-&nbsp;
+<small>Maria Cláudia Calvalcante</small>[{% include icon.html id="lattes" %}](http://lattes.cnpq.br/7292694995543789)
+<small>Instituto Militar de Engenharia (IME/RJ)</small></br>
+</br>
+</br>
 {% include figure.html image="/assets/team/yoko.jpg" position="left" width="120" %}
-**Renato Cerceau**\
-Instituto Nacional do Câncer (INC)
-{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/7292694995543789" %}
-&nbsp;
+<small>Renato Cerceau</small>[{% include icon.html id="lattes" %}](http://lattes.cnpq.br/7292694995543789)
+<small>Instituto Nacional do Câncer (INC)</small></br>
+</br>
+</br>
 {% include figure.html image="/assets/team/yoko.jpg" position="left" width="120" %}
-**Marcos Martins**\
-Universidade Estadual do Rio de Janeiro (UERJ)
-{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/7292694995543789" %}
+<small>Marcos Martins</small>[{% include icon.html id="lattes" %}](http://lattes.cnpq.br/7292694995543789)
+<small>Universidade Estadual do Rio de Janeiro (UERJ)</small></br>
