@@ -10,8 +10,8 @@ excerpt: ""
 
 {% include figure.html image="/assets/team/viviane.jpg" position="left" width="120" %}
 <small>Viviane Santos de Oliveira Veiga</small><br/>
-<small> Fundação Oswaldo Cruz (FIOCRUZ)</small>
-{% include button.html text="CV" icon="lattes" position="right" link="http://lattes.cnpq.br/4983074089687751" %}
+<small> Fundação Oswaldo Cruz (FIOCRUZ)</small><br/>
+{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/4983074089687751" %}
 &nbsp;
 {% include figure.html image="/assets/team/mlmc.jpg" position="left" width="120" %}
 ##### Maria Luiza Machado Campos
