@@ -9,16 +9,16 @@ excerpt: ""
 
 
 {% include figure.html image="/assets/team/viviane.jpg" position="left" width="120" %}
+{% include button.html text="CV" icon="lattes" position="left" link="http://lattes.cnpq.br/4983074089687751" %}
 **Viviane Santos de Oliveira Veiga**\
 Fundação Oswaldo Cruz (FIOCRUZ)
 
-{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/4983074089687751" %}
 &nbsp;
 {% include figure.html image="/assets/team/mlmc.jpg" position="left" width="120" %}
+{% include button.html text="CV" icon="lattes" position="left" link="http://lattes.cnpq.br/0659658820912418" %}
 **Maria Luiza Machado Campos**\
 Universidade Federal do Rio de Janeiro (UFRJ)
 
-{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/0659658820912418" %}
 &nbsp;
 {% include figure.html image="/assets/team/joaol.jpg" position="left" width="120" %}
 **João Luiz Rebelo Moreira**\
