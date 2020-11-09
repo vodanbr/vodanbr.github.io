@@ -11,7 +11,7 @@ excerpt: ""
 {% include figure.html image="/assets/team/yoko.jpg" position="left" width="120" %}
 **Luana Sales**\
 GO FAIR Brazilian Office (IBICT)
-{% include button.html text="CV" icon="lattes" width:"50%" link="http://lattes.cnpq.br/7292694995543789" %}
+{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/7292694995543789" %}
 &nbsp;
 {% include figure.html image="/assets/team/yoko.jpg" position="left" width="120" %}
 **Maria Cláudia Calvalcante**\
