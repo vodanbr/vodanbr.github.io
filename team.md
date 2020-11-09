@@ -11,12 +11,15 @@ excerpt: ""
 {% include figure.html image="/assets/team/viviane.jpg" position="left" width="120" %}
 <small>Viviane Santos de Oliveira Veiga</small><br/>
 <small> Fundação Oswaldo Cruz (FIOCRUZ)</small><br/>
-{% include button.html text="CV" link="http://lattes.cnpq.br/4983074089687751" %}
+{% include button.html text="CV" width="120" link="http://lattes.cnpq.br/4983074089687751" %}
 
 {% include figure.html image="/assets/team/mlmc.jpg" position="left" width="120" %}
 <small>Maria Luiza Machado Campos</small><br/>
 <small>Universidade Federal do Rio de Janeiro (UFRJ)</small><br/>
-{% include button.html text="CV" icon="lattes" position="right" link="http://lattes.cnpq.br/0659658820912418" %}
+{% include button.html text="CV" icon="lattes" position="right" link="http://lattes.cnpq.br/
+0659658820912418" %}
+
+test test
 
 {% include figure.html image="/assets/team/joaol.jpg" position="left" width="120" %}
 <small>João Luiz Rebelo Moreira</small><br/>
@@ -32,5 +35,3 @@ excerpt: ""
 <small>Luiz Olavo Bonino da Silva Santos</small><br/>
 <small>VODAN IN consultant</small><br/>
 {% include button.html text="CV" icon="lattes" link="https://orcid.org/0000-0002-1164-1351" %}
-
-
