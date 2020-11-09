@@ -11,10 +11,6 @@ excerpt: ""
 **Natalia Queiroz de Oliveira**\
 {% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/4015411942050426" %}
 &nbsp;
-{% include figure.html image="/assets/team/feijoo.jpg" position="left" width="120" %}
-**Matheus Pedra Puime Feijoó**\
-{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/3719962363173635"%}
-&nbsp;
 {% include figure.html image="/assets/team/madalena.jpg" position="left" width="120" %}
 **Madalena Lopes e Silva**\
 {% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/6372404549606741" %}
