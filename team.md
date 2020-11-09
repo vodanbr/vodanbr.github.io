@@ -9,7 +9,7 @@ excerpt: ""
 
 
 {% include figure.html image="/assets/team/viviane.jpg" position="left" width="120" %}
-<small>Viviane Santos de Oliveira Veiga</small>
+**<small>Viviane Santos de Oliveira Veiga</small>**
 <small>Fundação Oswaldo Cruz (FIOCRUZ)</small>
 {% include button.html text="CV" icon="lattes" position="right" link="http://lattes.cnpq.br/4983074089687751" %}
 &nbsp;
