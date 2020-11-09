@@ -1,9 +1,18 @@
 ---
-title: VODAN International
+title: VODAN Brazil
 feature_text: 
 feature_image: '/assets/logos/background.jpg'
 excerpt: "About Us"
 ---
+
+The **VODAN Brazil Implementation Network** was established through the efforts of teams from the Oswaldo Cruz Foundation ([Fiocruz](https://portal.fiocruz.br/)), Federal University of Rio de Janeiro ([UFRJ](https://ufrj.br/)), Federal University of the State of Rio de Janeiro ([UNIRIO](http://www.unirio.br/hugg_geral)) and São José Municipal Hospital. The Vodan Brazil aims to provide an infrastructure capable of enabling health units to collect and manage medical data of patients infected with COVID-19.
+
+During the first phase of the project, a collection of patient data from each hospital is collect using the [
+COVID-19 CASE RECORD FORM](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwihpanpkYbsAhXCILkGHQ7MC4IQFjAAegQIBhAB&url=https%3A%2F%2Fapps.who.int%2Firis%2Frest%2Fbitstreams%2F1274888%2Fretrieve&usg=AOvVaw1Abvhm1sC0BhZ17V3nyaF0), adopted by the World Health Organization (WHO). Subsequently, a network of FAIR Data Points ([FDPs](https://www.go-fair.org/how-to-go-fair/fair-data-point/)) will be created in repositories with the data of these patients, ensuring the confidentiality and privacy of each patient based on government laws. From the FDPs, it will be possible to interoperate with each other and with other national and international data sources, allowing for wide reuse and exploration of this data in different researches.
+
+
+## VODAN INTERNATIONAL
+
 
  The **Virus Outbreak Data Network(VODAN) Implementation Network** is one of the joint activities carried out by [CODATA](https://codata.org/), [RDA](https://www.rd-alliance.org/), [WDS](https://www.worlddatasystem.org/), and [GO FAIR](https://www.go-fair.org/).
  
@@ -15,12 +24,7 @@ To see more about the VODAN International, [click here](https://www.go-fair.org/
 
  
 
-## VODAN Brazil
 
-The **VODAN Brazil Implementation Network** was established through the efforts of teams from the Oswaldo Cruz Foundation ([Fiocruz](https://portal.fiocruz.br/)), Federal University of Rio de Janeiro ([UFRJ](https://ufrj.br/)), Federal University of the State of Rio de Janeiro ([UNIRIO](http://www.unirio.br/hugg_geral)) and São José Municipal Hospital. The Vodan Brazil aims to provide an infrastructure capable of enabling health units to collect and manage medical data of patients infected with COVID-19.
-
-During the first phase of the project, a collection of patient data from each hospital is collect using the [
-COVID-19 CASE RECORD FORM](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwihpanpkYbsAhXCILkGHQ7MC4IQFjAAegQIBhAB&url=https%3A%2F%2Fapps.who.int%2Firis%2Frest%2Fbitstreams%2F1274888%2Fretrieve&usg=AOvVaw1Abvhm1sC0BhZ17V3nyaF0), adopted by the World Health Organization (WHO). Subsequently, a network of FAIR Data Points ([FDPs](https://www.go-fair.org/how-to-go-fair/fair-data-point/)) will be created in repositories with the data of these patients, ensuring the confidentiality and privacy of each patient based on government laws. From the FDPs, it will be possible to interoperate with each other and with other national and international data sources, allowing for wide reuse and exploration of this data in different researches.
 
 
 {% include button.html text="Like us" icon="facebook" link="https://www.go-fair.org/implementation-networks/overview/vodan/" color="#3B5998" %}{% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://oms-vodan.github.io&text=Look%20how%20interesting%20this%20project%20is!" color="#0d94e7" %} {% include button.html text="Share on Facebook" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fvodanbr.github.io" color="#3B5998" %}
