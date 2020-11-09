@@ -12,7 +12,7 @@ excerpt: ""
 <small>Viviane Santos de Oliveira Veiga</small>[{% include icon.html id="lattes" %}](http://lattes.cnpq.br/4983074089687751)<br/>
 <small> Fundação Oswaldo Cruz (FIOCRUZ)</small><br/>
 <br/>
-
+<br/>
 {% include figure.html image="/assets/team/mlmc.jpg" position="left" width="120" %}
 <small>Maria Luiza Machado Campos</small><br/>
 <small>Universidade Federal do Rio de Janeiro (UFRJ)</small><br/>
