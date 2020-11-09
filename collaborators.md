@@ -14,15 +14,15 @@ excerpt: ""
 <br/>
 <br/>
 {% include figure.html image="/assets/team/yoko.jpg" position="left" width="120" %}
-<small>Maria Cláudia Calvalcante</small>[{% include icon.html id="lattes" %}](http://lattes.cnpq.br/7292694995543789)
+<small>Maria Cláudia Calvalcante</small>[{% include icon.html id="lattes" %}](http://lattes.cnpq.br/7292694995543789)<br/>
 <small>Instituto Militar de Engenharia (IME/RJ)</small><br/>
 <br/>
 <br/>
 {% include figure.html image="/assets/team/yoko.jpg" position="left" width="120" %}
-<small>Renato Cerceau</small>[{% include icon.html id="lattes" %}](http://lattes.cnpq.br/7292694995543789)
+<small>Renato Cerceau</small>[{% include icon.html id="lattes" %}](http://lattes.cnpq.br/7292694995543789)<br/>
 <small>Instituto Nacional do Câncer (INC)</small><br/>
 <br/>
 <br/>
 {% include figure.html image="/assets/team/yoko.jpg" position="left" width="120" %}
-<small>Marcos Martins</small>[{% include icon.html id="lattes" %}](http://lattes.cnpq.br/7292694995543789)
+<small>Marcos Martins</small>[{% include icon.html id="lattes" %}](http://lattes.cnpq.br/7292694995543789)<br/>
 <small>Universidade Estadual do Rio de Janeiro (UERJ)</small><br/>
