@@ -7,33 +7,17 @@ excerpt: ""
 
 {% include button.html text="Executive" align="center" link="https://vodanbr.github.io/team/" %}{% include button.html text="Coordination" align="center" link="https://vodanbr.github.io/coordination/" %}{% include button.html text="Collaborators" align="center" link="https://vodanbr.github.io/collaborators/" %}{% include button.html text="Development Team" align="center" link="https://vodanbr.github.io/developmentteam/" %}{% include button.html text="Hospital Partners" align="center" link="https://vodanbr.github.io/hospitalparteners/" %}
 
-Researchers:
+**Universidade Federal do Estado do Rio de Janeiro (UNIRIO)**
+Carlos Roberto Lyra da Silva - Universidade Federal do Estado do Rio de Janeiro
+(UNIRIO)
 
-{% include figure.html image="/assets/team/serra.jpg" position="left" width="120" %}
-**Sergio Manuel Serra da Cruz**\
-Universidade Federal do Rio de Janeiro (UFRJ)
-{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/7618571401128973"%}
-&nbsp;
-{% include figure.html image="/assets/team/giseli.jpg" position="left" width="120" %}
-**Giseli Rabello Lopes**\
-Universidade Federal do Rio de Janeiro (UFRJ)
-{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/9439416101626260" %}
+**Gaffree Guinle Hospital**
+Romero de Melo Silva - Universidade Federal do Estado do Rio de Janeiro (UNIRIO)
+Sérgio Luis Teixeira de Aquino - Universidade Federal do Estado do Rio de Janeiro
+(UNIRIO)
+Jorge da Cunha Barbosa Leite - Universidade Federal do Estado do Rio de Janeiro
+(UNIRIO)
 
-Development:
-
-{% include figure.html image="/assets/team/vania.jpg" position="left" width="120" %}
-**Vânia Jesus de Araujo Soares Borges**\
-Universidade Federal do Rio de Janeiro (UFRJ)
-{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/1299486079970847" %}
-&nbsp;
-{% include figure.html image="/assets/team/leticia.jpg" position="left" width="120" %}
-**Letícia Dias Verona**\
-Universidade Federal do Rio de Janeiro (UFRJ)
-{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/2165808131875029"%}
-
-Communication:
-
-{% include figure.html image="/assets/team/feijoo.jpg" position="left" width="120" %}
-**Matheus Pedra Puime Feijoó**\
-Universidade Federal do Rio de Janeiro (UFRJ)
-{% include button.html text="CV" icon="lattes" link="http://lattes.cnpq.br/3719962363173635"%}
+**Municipal São José de Duque de Caxias Hospital**
+Antonio Pontes Neto - Hospital Municipal São José de Duque de Caxias
+Carlos Antonio da Silva - Hospital Municipal São José de Duque de Caxias
