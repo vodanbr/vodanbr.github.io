@@ -10,7 +10,7 @@ excerpt: ""
 
 {% include figure.html image="/assets/team/viviane.jpg" position="left" width="120" %}
 <small>Viviane Santos de Oliveira Veiga</small>
-_Fundação Oswaldo Cruz (FIOCRUZ)_
+###### Fundação Oswaldo Cruz (FIOCRUZ)
 {% include button.html text="CV" icon="lattes" position="right" link="http://lattes.cnpq.br/4983074089687751" %}
 &nbsp;
 {% include figure.html image="/assets/team/mlmc.jpg" position="left" width="120" %}
