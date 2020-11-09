@@ -9,9 +9,8 @@ excerpt: ""
 
 
 {% include figure.html image="/assets/team/viviane.jpg" position="left" width="120" %}
-<small>Viviane Santos de Oliveira Veiga</small><br/>
+<small>Viviane Santos de Oliveira Veiga</small>[{% include icon.html id="lattes" title="cv" %}](http://lattes.cnpq.br/4983074089687751)<br/>
 <small> Fundação Oswaldo Cruz (FIOCRUZ)</small><br/>
-[{% include icon.html id="lattes" title="cv" %}](http://lattes.cnpq.br/4983074089687751)
 
 {% include figure.html image="/assets/team/mlmc.jpg" position="left" width="120" %}
 <small>Maria Luiza Machado Campos</small><br/>
