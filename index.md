@@ -29,3 +29,9 @@ To see more about the VODAN International, [click here](https://www.go-fair.org/
 
 {% include button.html text="Like us" icon="facebook" link="https://www.go-fair.org/implementation-networks/overview/vodan/" color="#3B5998" %}{% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://oms-vodan.github.io&text=Look%20how%20interesting%20this%20project%20is!" color="#0d94e7" %} {% include button.html text="Share on Facebook" icon="facebook" link="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fvodanbr.github.io" color="#3B5998" %}
 
+<html>
+  <head>
+   <meta name=”google-site-verification”    content=”arAVILo85Gq_TBSX3Hrbo6BDWJTc6x6k9t1wMzUlMwI” />
+  </head>
+</html>
+
